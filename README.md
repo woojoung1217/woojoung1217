@@ -1,6 +1,8 @@
 ### Hi there 👋
   Good day !! i am Woojoung Yoon who is interested in front-end developing 😄
-  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://https://www.facebook.com/profile.php?id=100006863980371)
+  
+  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)https://www.facebook.com/profile.php?id=100006863980371
+  
 <!--
 **woojoung1217/woojoung1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
