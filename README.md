@@ -1,6 +1,6 @@
 ### Hi there 👋
   Good day !! i am Woojoung Yoon who is interested in front-end developing 😄
-   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/woojoung1217/github-readme-stats)
+    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=woojoung1217)](https://github.com/anuraghazra/github-readme-stats)
   
 <!--
 **woojoung1217/woojoung1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
