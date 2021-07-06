@@ -4,8 +4,7 @@
 **woojoung1217/woojoung1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-
+<a href="[view-source:https://simpleicons.org/?q=python]" target="_blank"><img src="https://img.shields.io/badge/[python]-[#3776AB]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a>
 - 🌱 I’m currently learning html / css 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
