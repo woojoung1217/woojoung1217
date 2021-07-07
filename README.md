@@ -3,9 +3,6 @@
   
   - 🌱 I’m currently learning html / css / js
   - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woojoung1217&theme=dark&show_icons=true)
-
-
-
 <!--
 **woojoung1217/woojoung1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
