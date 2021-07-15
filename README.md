@@ -2,7 +2,7 @@
   Good day !! I’m Woojoung Yoon who is interested in front-end developing 😄 
   
   - 🌱 I’m currently learning html / css / js
-  - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woojoung1217&theme=dark&show_icons=true)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woojoung1217&theme=dark&show_icons=true)
 
 
 <!--
