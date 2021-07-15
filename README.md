@@ -1,5 +1,5 @@
 ### Hi there 👋
-  <h2 align="center">Good day !! I’m Woojoung Yoon🌱 who is interested in front-end developing 😄 
+  <h2 align="center">Good day !! I’m Woojoung Yoon🌱 who is Interested in front-end developing 😄 
 
   <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
   <p align="center">Techs that I've used at least once:unlock:</p>
