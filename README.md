@@ -16,7 +16,6 @@
   <h3 target="blank">  💬e-mail:ywj981217@naver.com</a></h3>
   </div>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woojoung1217&theme=dark&show_icons=true)
 
 
 
