@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=C&logoColor=white"/></a>
   <h3 align='center'>🍑HOW TO CONTACT ME 🍑</h3>
   <div align="center">
-  <h3 target="blank">  💬e-mail:ywj981217@naver.com</a></h3>
+  <h3 target="blank">  💬E-mail: ywj981217@naver.com</a></h3>
   </div>
 
 
