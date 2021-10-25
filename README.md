@@ -17,8 +17,10 @@
   <br>
   Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
-  <h3 align='center'🐥HOW TO CONTACT ME🐥</h3>
-  <h4>🌱 I’m currently learning TypeScript </h4>
+  <div align="center">
+    <h3 align='center'>🐥HOW TO CONTACT ME🐥</h3>
+   <h4>🌱 I’m currently learning TypeScript </h4>
+  </div>
   <div align="center">
   <h3 target="blank">  💬E-mail: ywj981217@naver.com </a></h3>
   </div>
