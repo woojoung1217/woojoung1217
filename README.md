@@ -1,5 +1,7 @@
   <h2 align="center">Good day !! I’m Woojoung Yoon🌱 who is Interested in frontend developing 😄 
-   -  I’m currently learning React and Redux 
+  
+  
+   <br> I’m currently learning React and Redux 🐥 
  
 
 <!--
