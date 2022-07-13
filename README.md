@@ -1,4 +1,4 @@
-  <h2 align="center">Good day !! I’m Woojoung Yoon🌱 who is Interested in frontend developing ! 😄 
+  <h2 align="center">Good day !! I’m woojoung Yoon🌱 who is Interested in frontend developing ! 😄 
   
   
    <br> I’m currently learning React and Redux 🐥 
