@@ -14,5 +14,4 @@
 
 ## ▎📚 Blog For Learning
 - ### https://velog.io/@woojoung
-- ### https://developing-cell-df2.notion.site
 
