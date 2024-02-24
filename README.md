@@ -1,4 +1,4 @@
-# ▎안녕하세요,<br>▎프론트엔드 개발자<br>▎윤우중 입니다 .
+# ▎안녕하세요,<br>▎프론트엔드 개발자<br>▎윤우중 입니다.
 
 ## ▎🛠 Tech Stacks
 - Front-end : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
