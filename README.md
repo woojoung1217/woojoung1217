@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=HI!%20I'M%20Woojoung%20🖐️&animation=&fontColor=322f2f&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:53b6ca,100:dbe2e6&height=180&text=HI!%20I'M%20Woojoung%20🖐️&animation=&fontColor=322f2f&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> About Me </h2>  
@@ -19,12 +19,12 @@
           </div>
     </div>
     <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center">  </div>  <br> 
     <div align= "center">  </div> 
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Woojoung&bg_color=60,373cd7,629cc0&title_color=fdf6f6&text_color=fdf6f6"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woojoung&layout=compact&bg_color=60,373cd7,629cc0&title_color=fdf6f6&text_color=fdf6f6"
-           /> </div> 
+         />  </div> 
     </div>
     
