@@ -19,7 +19,6 @@
           </div>
     </div>
     <div style="text-align: left;">
-   
     <div align= "center">  </div>  <br> 
     <div align= "center">  </div> 
     </div>
